@@ -1,4 +1,4 @@
-# revision 25104
+# revision 27182
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-science
 Epoch:		1
-Version:	20120224
+Version:	20120810
 Release:	1
 Summary:	Typesetting for natural and computer sciences
 Group:		Publishing
@@ -65,6 +65,7 @@ Requires:	texlive-sfg
 Requires:	texlive-siunitx
 Requires:	texlive-steinmetz
 Requires:	texlive-struktex
+Requires:	texlive-substances
 Requires:	texlive-t-angles
 Requires:	texlive-textopo
 Requires:	texlive-ulqda

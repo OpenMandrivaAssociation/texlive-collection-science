@@ -1,4 +1,4 @@
-# revision 27182
+# revision 28017
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-science
 Epoch:		1
-Version:	20120810
+Version:	20121030
 Release:	1
 Summary:	Typesetting for natural and computer sciences
 Group:		Publishing
@@ -23,6 +23,7 @@ Requires:	texlive-algorithm2e
 Requires:	texlive-algorithmicx
 Requires:	texlive-algorithms
 Requires:	texlive-biocon
+Requires:	texlive-bohr
 Requires:	texlive-bpchem
 Requires:	texlive-bytefield
 Requires:	texlive-chemarrow
@@ -39,6 +40,7 @@ Requires:	texlive-digiconfigs
 Requires:	texlive-drawstack
 Requires:	texlive-dyntree
 Requires:	texlive-eltex
+Requires:	texlive-endiagram
 Requires:	texlive-engtlc
 Requires:	texlive-fouridx
 Requires:	texlive-functan
@@ -57,6 +59,7 @@ Requires:	texlive-miller
 Requires:	texlive-mychemistry
 Requires:	texlive-nuc
 Requires:	texlive-objectz
+Requires:	texlive-physics
 Requires:	texlive-physymb
 Requires:	texlive-pseudocode
 Requires:	texlive-sasnrdisplay

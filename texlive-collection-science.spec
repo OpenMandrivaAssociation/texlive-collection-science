@@ -1,4 +1,4 @@
-# revision 28017
+# revision 27182
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-science
 Epoch:		1
-Version:	20121030
+Version:	20120810
 Release:	1
 Summary:	Typesetting for natural and computer sciences
 Group:		Publishing
@@ -23,7 +23,6 @@ Requires:	texlive-algorithm2e
 Requires:	texlive-algorithmicx
 Requires:	texlive-algorithms
 Requires:	texlive-biocon
-Requires:	texlive-bohr
 Requires:	texlive-bpchem
 Requires:	texlive-bytefield
 Requires:	texlive-chemarrow
@@ -40,7 +39,6 @@ Requires:	texlive-digiconfigs
 Requires:	texlive-drawstack
 Requires:	texlive-dyntree
 Requires:	texlive-eltex
-Requires:	texlive-endiagram
 Requires:	texlive-engtlc
 Requires:	texlive-fouridx
 Requires:	texlive-functan
@@ -59,7 +57,6 @@ Requires:	texlive-miller
 Requires:	texlive-mychemistry
 Requires:	texlive-nuc
 Requires:	texlive-objectz
-Requires:	texlive-physics
 Requires:	texlive-physymb
 Requires:	texlive-pseudocode
 Requires:	texlive-sasnrdisplay
@@ -89,3 +86,16 @@ Typesetting for natural and computer sciences.
 %build
 
 %install
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
++ Revision: 813983
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780510
+- Update to latest release.
+- Import texlive-collection-science
+- Import texlive-collection-science
+

@@ -1,4 +1,4 @@
-# revision 28017
+# revision 30307
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,9 +6,9 @@
 # catalog-version undef
 Name:		texlive-collection-science
 Epoch:		1
-Version:	20121030
+Version:	20131013
 Release:	1
-Summary:	Typesetting for natural and computer sciences
+Summary:	Natural and computer sciences
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
@@ -16,6 +16,7 @@ Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-scienc
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
+Requires:	texlive-collection-latex
 Requires:	texlive-SIstyle
 Requires:	texlive-SIunits
 Requires:	texlive-alg
@@ -74,10 +75,9 @@ Requires:	texlive-textopo
 Requires:	texlive-ulqda
 Requires:	texlive-unitsdef
 Requires:	texlive-youngtab
-Requires:	texlive-collection-latex
 
 %description
-Typesetting for natural and computer sciences.
+TeXLive collection-science package.
 
 #-----------------------------------------------------------------------
 %files
@@ -89,20 +89,3 @@ Typesetting for natural and computer sciences.
 %build
 
 %install
-
-
-%changelog
-* Tue Oct 30 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20121030-1
-+ Revision: 821221
-- Update to latest release.
-
-* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
-+ Revision: 813983
-- Update to latest release.
-
-* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
-+ Revision: 780510
-- Update to latest release.
-- Import texlive-collection-science
-- Import texlive-collection-science
-

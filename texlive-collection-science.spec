@@ -1,4 +1,4 @@
-# revision 30307
+# revision 32182
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-science
 Epoch:		1
-Version:	20131013
+Version:	20131201
 Release:	1
 Summary:	Natural and computer sciences
 Group:		Publishing
@@ -74,6 +74,7 @@ Requires:	texlive-t-angles
 Requires:	texlive-textopo
 Requires:	texlive-ulqda
 Requires:	texlive-unitsdef
+Requires:	texlive-xymtex
 Requires:	texlive-youngtab
 
 %description

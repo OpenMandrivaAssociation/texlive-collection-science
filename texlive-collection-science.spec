@@ -7,7 +7,7 @@
 Name:		texlive-collection-science
 Epoch:		1
 Version:	20121030
-Release:	1
+Release:	2
 Summary:	Typesetting for natural and computer sciences
 Group:		Publishing
 URL:		http://tug.org/texlive

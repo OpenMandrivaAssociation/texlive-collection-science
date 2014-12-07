@@ -7,7 +7,7 @@
 Name:		texlive-collection-science
 Epoch:		1
 Version:	20131201
-Release:	7
+Release:	8
 Summary:	Natural and computer sciences
 Group:		Publishing
 URL:		http://tug.org/texlive

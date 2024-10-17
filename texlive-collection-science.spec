@@ -10,7 +10,7 @@ Version:	20131201
 Release:	12
 Summary:	Natural and computer sciences
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-science.tar.xz
 BuildArch:	noarch
